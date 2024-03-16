@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shriharsha Vaidhyam</h1>
-<h3 align="left">👋 Hi! I'm Shriharsha Vaidhyam - a tech enthusiast into AI, Data Science, and web/app development. <br> 🔍 I enjoy turning complex problems into simple, impactful innovations. My experience spans across academic and professional projects, blending technical depth with practical usability. <br>📚 Always learning and eager to share knowledge, I'm passionate about tech's potential to drive change. <br>🚀 Let's collaborate on something amazing!</h3>
+<h3 align="left">👋 Hi! I'm Shriharsha Vaidhyam - a tech enthusiast into AI, Data Science, and web/app development. <br><br> 🔍 I enjoy turning complex problems into simple, impactful innovations. My experience spans across academic and professional projects, blending technical depth with practical usability. <br><br>📚 Always learning and eager to share knowledge, I'm passionate about tech's potential to drive change. <br><br>🚀 Let's collaborate on something amazing!</h3>
 
 - 🔭 I’m currently working on [InfoTrek- Financial Insights Engine](https://github.com/harshavaidhyam/InforTrek-Financial-Insight-Engine)
 
